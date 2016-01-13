@@ -1,0 +1,28 @@
+name: HayleyBug
+favicon: null
+layout_spectrum: 0.22148491954430938
+typography_spectrum: 0.29042785917408764
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.9161508823744953
+  lightness: 0.6650831562001258
+  saturation: 0.0718798995949328
+  rhythmicContrast: 0.44579837610945106
+purpose: []
